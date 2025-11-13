@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I'm currently study at KOSEN-Kmitl,computer engineering.NOw interest in quantum computing
 
-* 🌍  I'm based in Thailand
+* 🌍  I'm based in Bangkok
 * ✉️  You can contact me at [buabua1452@gmail.com](mailto:buabua1452@gmail.com)
 * 🎉 I'm also active on Medium and Reddit.In my freetime I enjoy playing games
 
