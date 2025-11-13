@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Nemo
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)It's Nemo
 =============================================================================================================================
 
-I'm currently study at KOSEN-Kmitl,computer engineering.NOw interest in quantum computing
+I'm currently study at KOSEN-Kmitl,computer engineering.Now interest in quantum computing
 
 * 🌍  I'm based in Bangkok
 * ✉️  You can contact me at [buabua1452@gmail.com](mailto:buabua1452@gmail.com)
